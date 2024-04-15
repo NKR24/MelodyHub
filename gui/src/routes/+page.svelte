@@ -20,5 +20,4 @@
 	<StartScreen />
 {:else}
 	<Navbar />
-	<slot />
 {/if}
