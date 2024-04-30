@@ -1,2 +1,2 @@
 # MelodyHub
-in optional fastest and user-friendly music service
+in optional the fastest and user-friendly music service
